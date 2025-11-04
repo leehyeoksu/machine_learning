@@ -35,3 +35,4 @@ logs/
 # --- OS/Etc ---
 .DS_Store
 Thumbs.db
+.venv/
