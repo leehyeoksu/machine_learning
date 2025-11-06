@@ -1,0 +1,11 @@
+# venv & 캐시
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+
+# 데이터(로컬만)
+data/
