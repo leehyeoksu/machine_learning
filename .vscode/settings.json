@@ -1,6 +1,5 @@
 {
-  "python.defaultInterpreterPath": "/home/hyuksu/projects/ml/.venv/bin/python",
-  "python.terminal.activateEnvironment": true,
-  "jupyter.jupyterServerType": "local",
-  "editor.autoIndent": "none"
+    "python.terminal.activateEnvironment":  true,
+    "jupyter.jupyterServerType":  "local",
+    "python.defaultInterpreterPath":  "${workspaceFolder}\\\\.venv\\\\Scripts\\\\python.exe"
 }
