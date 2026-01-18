@@ -1,0 +1,197 @@
+2025-11-29T23:18:30,971 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=162467
+2025-11-29T23:18:30,972 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2025-11-29T23:18:30,974 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:18:30,975 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - [PID]162467
+2025-11-29T23:18:30,976 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:18:30,976 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:18:30,979 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=162474
+2025-11-29T23:18:30,980 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2025-11-29T23:18:30,987 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2025-11-29T23:18:30,990 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:18:30,991 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - [PID]162474
+2025-11-29T23:18:30,991 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:18:30,992 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:18:30,996 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2025-11-29T23:18:31,002 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=162468
+2025-11-29T23:18:31,005 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2025-11-29T23:18:31,006 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:18:31,006 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - [PID]162468
+2025-11-29T23:18:31,007 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:18:31,007 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:18:31,011 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2025-11-29T23:18:31,039 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=162473
+2025-11-29T23:18:31,040 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2025-11-29T23:18:31,043 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:18:31,043 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - [PID]162473
+2025-11-29T23:18:31,044 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:18:31,044 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:18:31,052 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:18:31,052 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:18:31,053 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:18:31,068 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:18:31,068 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:18:31,068 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2025-11-29T23:18:31,068 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:18:31,068 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:18:31,068 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:18:31,068 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:18:31,068 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:18:31,068 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/ed93f7c4abb342f3946f79166f76433a/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:18:31,068 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/0e9db30b2c51405796d1dc17e14dd756/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:18:31,079 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:18:31,079 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:18:31,080 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/0e9db30b2c51405796d1dc17e14dd756/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:18:31,081 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:18:31,083 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:18:31,084 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:18:31,084 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:18:31,089 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/ed93f7c4abb342f3946f79166f76433a/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:22:07,389 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=164159
+2025-11-29T23:22:07,389 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2025-11-29T23:22:07,392 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:22:07,392 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - [PID]164159
+2025-11-29T23:22:07,392 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:22:07,392 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:22:07,397 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=164156
+2025-11-29T23:22:07,399 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2025-11-29T23:22:07,399 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=164160
+2025-11-29T23:22:07,400 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2025-11-29T23:22:07,401 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:22:07,401 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - [PID]164156
+2025-11-29T23:22:07,401 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:22:07,402 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:22:07,402 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:22:07,403 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - [PID]164160
+2025-11-29T23:22:07,403 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:22:07,403 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:22:07,409 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2025-11-29T23:22:07,409 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2025-11-29T23:22:07,411 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2025-11-29T23:22:07,422 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=164155
+2025-11-29T23:22:07,423 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2025-11-29T23:22:07,430 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:22:07,431 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - [PID]164155
+2025-11-29T23:22:07,431 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:22:07,431 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:22:07,449 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2025-11-29T23:22:07,476 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:22:07,477 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:22:07,478 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:22:07,479 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:22:07,479 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:22:07,479 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:22:07,480 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:22:07,480 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:22:07,480 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:22:07,480 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:22:07,480 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:22:07,480 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:22:07,483 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/decef21b571e4db8aadab3cf94123dd5/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:22:07,484 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/2e47dc8cd0a842bc8a00bf6f51799971/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:22:07,498 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/2e47dc8cd0a842bc8a00bf6f51799971/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:22:07,498 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:22:07,501 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:22:07,502 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:22:07,502 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:22:07,506 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/decef21b571e4db8aadab3cf94123dd5/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:22:23,635 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Backend received inference at: 1764426143
+2025-11-29T23:22:27,000 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Backend received inference at: 1764426146
+2025-11-29T23:47:02,412 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=174612
+2025-11-29T23:47:02,414 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2025-11-29T23:47:02,415 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:47:02,416 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - [PID]174612
+2025-11-29T23:47:02,416 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:47:02,416 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:47:02,428 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=174613
+2025-11-29T23:47:02,427 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=174619
+2025-11-29T23:47:02,429 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2025-11-29T23:47:02,429 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2025-11-29T23:47:02,430 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:47:02,430 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - [PID]174619
+2025-11-29T23:47:02,431 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:47:02,431 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:47:02,432 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2025-11-29T23:47:02,433 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:47:02,434 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - [PID]174613
+2025-11-29T23:47:02,435 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:47:02,436 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2025-11-29T23:47:02,436 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:47:02,439 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=174621
+2025-11-29T23:47:02,441 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2025-11-29T23:47:02,441 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2025-11-29T23:47:02,444 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:47:02,444 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - [PID]174621
+2025-11-29T23:47:02,445 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:47:02,445 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:47:02,468 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2025-11-29T23:47:02,494 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:47:02,498 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:47:02,498 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:47:02,499 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:47:02,505 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/e6d9ca436b374e87ad6ef13f20f70604/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:47:02,514 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:47:02,515 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:47:02,517 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:47:02,517 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:47:02,518 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:47:02,518 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:47:02,518 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:47:02,518 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:47:02,518 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:47:02,519 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:47:02,520 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:47:02,520 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:47:02,522 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/e6d9ca436b374e87ad6ef13f20f70604/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:47:02,522 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/ae0878ff6d9b4e76b786c8eba464c980/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:47:02,526 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/ae0878ff6d9b4e76b786c8eba464c980/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:47:18,342 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Backend received inference at: 1764427638
+2025-11-29T23:48:44,861 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Backend received inference at: 1764427724
+2025-11-29T23:48:44,902 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Backend received inference at: 1764427724
+2025-11-29T23:57:08,833 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=179284
+2025-11-29T23:57:08,834 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2025-11-29T23:57:08,838 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:57:08,838 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=179288
+2025-11-29T23:57:08,839 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - [PID]179284
+2025-11-29T23:57:08,839 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2025-11-29T23:57:08,839 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:57:08,839 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:57:08,844 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:57:08,846 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - [PID]179288
+2025-11-29T23:57:08,846 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:57:08,847 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:57:08,850 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=179285
+2025-11-29T23:57:08,851 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2025-11-29T23:57:08,855 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:57:08,855 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - [PID]179285
+2025-11-29T23:57:08,856 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:57:08,857 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:57:08,858 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2025-11-29T23:57:08,858 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2025-11-29T23:57:08,860 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2025-11-29T23:57:08,877 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=179289
+2025-11-29T23:57:08,878 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2025-11-29T23:57:08,882 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Successfully loaded /home/hyuksu/projects/ml/.venv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2025-11-29T23:57:08,883 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - [PID]179289
+2025-11-29T23:57:08,883 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch worker started.
+2025-11-29T23:57:08,883 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2025-11-29T23:57:08,899 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2025-11-29T23:57:08,931 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:57:08,931 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:57:08,931 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - model_name: wine_l1, batchSize: 1
+2025-11-29T23:57:08,931 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:57:08,932 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - model_name: wine_l2, batchSize: 1
+2025-11-29T23:57:08,932 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:57:08,932 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:57:08,932 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:57:08,932 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:57:08,933 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:57:08,933 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:57:08,933 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:57:08,933 [INFO ] W-9003-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/baf2f47291c34a17b298c372ac0c95ed/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:57:08,934 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:57:08,934 [INFO ] W-9000-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/f441b5aecc9c4967a87a9242bc21aea8/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:57:08,934 [INFO ] W-9001-wine_l1_1.0-stdout MODEL_LOG - '/tmp/models/f441b5aecc9c4967a87a9242bc21aea8/index_to_name.json' is missing. Inference output will not include class name.
+2025-11-29T23:57:08,935 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-11-29T23:57:08,935 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-11-29T23:57:08,935 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-11-29T23:57:08,939 [INFO ] W-9002-wine_l2_1.0-stdout MODEL_LOG - '/tmp/models/baf2f47291c34a17b298c372ac0c95ed/index_to_name.json' is missing. Inference output will not include class name.

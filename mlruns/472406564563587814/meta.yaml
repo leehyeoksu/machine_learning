@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/472406564563587814
+creation_time: 1764419761065
+experiment_id: '472406564563587814'
+last_update_time: 1764419761065
+lifecycle_stage: active
+name: Softmax_vs_NoSoftmax

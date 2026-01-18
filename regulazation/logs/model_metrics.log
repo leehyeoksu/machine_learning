@@ -1,0 +1,10 @@
+2025-11-29T23:22:23,647 - HandlerTime.ms:11.34|#ModelName:wine_l1,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:6c87700c-4177-4fa2-b298-d5464c8b3005,timestamp:1764426143
+2025-11-29T23:22:23,647 - PredictionTime.ms:11.49|#ModelName:wine_l1,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:6c87700c-4177-4fa2-b298-d5464c8b3005,timestamp:1764426143
+2025-11-29T23:22:27,001 - HandlerTime.ms:0.77|#ModelName:wine_l2,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:f0ae0345-89d2-471f-9d07-1dbea259071f,timestamp:1764426147
+2025-11-29T23:22:27,002 - PredictionTime.ms:0.88|#ModelName:wine_l2,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:f0ae0345-89d2-471f-9d07-1dbea259071f,timestamp:1764426147
+2025-11-29T23:47:18,344 - HandlerTime.ms:1.08|#ModelName:wine_l1,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:1814d9f8-c3d8-4668-b5af-01afc3bc7b25,timestamp:1764427638
+2025-11-29T23:47:18,344 - PredictionTime.ms:1.18|#ModelName:wine_l1,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:1814d9f8-c3d8-4668-b5af-01afc3bc7b25,timestamp:1764427638
+2025-11-29T23:48:44,864 - HandlerTime.ms:2.14|#ModelName:wine_l1,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:230a6add-855d-4096-a05d-b691f4ddf736,timestamp:1764427724
+2025-11-29T23:48:44,865 - PredictionTime.ms:2.99|#ModelName:wine_l1,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:230a6add-855d-4096-a05d-b691f4ddf736,timestamp:1764427724
+2025-11-29T23:48:44,910 - HandlerTime.ms:1.79|#ModelName:wine_l2,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:448f08a1-e398-4de4-a5ef-33ff50a229b0,timestamp:1764427724
+2025-11-29T23:48:44,911 - PredictionTime.ms:2.17|#ModelName:wine_l2,Level:Model|#hostname:BOOK-IOJVF0CD47,requestID:448f08a1-e398-4de4-a5ef-33ff50a229b0,timestamp:1764427724
