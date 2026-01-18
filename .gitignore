@@ -1,10 +1,41 @@
+# secrets / local configs
 /config.local
-/tmp
-/cache
-*.keras
-*.deb
-*.csv
-.DS_Store
-__pycache__/
-.venv/
 .env
+.env.*
+
+# temp/cache
+/tmp/
+/cache/
+__pycache__/
+*.pyc
+
+# datasets / big files
+data/
+**/data/
+*.zip
+*.tar
+*.tar.gz
+*.npz
+*.pkl
+*.h5
+*.keras
+
+# images (데이터셋이면 보통 제외)
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.png
+!reports/figures/*.png
