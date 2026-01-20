@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/472406564563587814/316df6bcba524d32943661f38136f2a0/artifacts
+end_time: 1764419916222
+entry_point_name: ''
+experiment_id: '472406564563587814'
+lifecycle_stage: active
+run_id: 316df6bcba524d32943661f38136f2a0
+run_name: With-Softmax-Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764419840848
+status: 3
+tags: []
+user_id: hyuksu

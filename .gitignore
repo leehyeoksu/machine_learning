@@ -1,41 +1,35 @@
-# secrets / local configs
-/config.local
-.env
-.env.*
-
-# temp/cache
-/tmp/
-/cache/
+# === Python ===
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# datasets / big files
-data/
-**/data/
-*.zip
-*.tar
-*.tar.gz
-*.npz
-*.pkl
-*.h5
-*.keras
+# === Virtual Environments ===
+.venv/
+.venv*/
+env/
+venv/
 
-# images (데이터셋이면 보통 제외)
-*.jpg
-*.jpeg
-*.png
-*.webp
-
-# MLflow
-mlruns/
-mlartifacts/
-
-# Jupyter
+# === Jupyter ===
 .ipynb_checkpoints/
 
-# OS
+# === Data / Datasets ===
+data/
+*/data/
+csv/
+*.csv
+*.tsv
+*.xlsx
+
+# === OS / Misc ===
 .DS_Store
 Thumbs.db
 
-*.png
-!reports/figures/*.png
+# === Packages / Binaries ===
+*.deb
+*.whl
+*.tar.gz
+*.zip
+
+# === Logs ===
+*.log
