@@ -33,3 +33,17 @@ Thumbs.db
 
 # === Logs ===
 *.log
+
+# MLflow tracking
+mlruns/
+mlartifacts/
+*.sqlite
+# Large artifacts / datasets
+data/
+*.tar.gz
+*.zip
+*.keras
+*.h5
+*.pth
+*.pt
+*.ckpt
